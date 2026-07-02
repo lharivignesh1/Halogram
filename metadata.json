@@ -1,0 +1,6 @@
+{
+  "name": "Halogram",
+  "description": "Futuristic social media app with real-time filters, encrypted messaging, and Snapchat-style Halo Streaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
